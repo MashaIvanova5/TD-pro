@@ -1,0 +1,5 @@
+/home/masha/CLionProjects/TD-pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/masha/CLionProjects/TD-pro/cmake-build-debug/CMakeFiles/big_project.dir
+/home/masha/CLionProjects/TD-pro/cmake-build-debug/CMakeFiles/table.dir
+/home/masha/CLionProjects/TD-pro/cmake-build-debug/CMakeFiles/drawing.dir
+/home/masha/CLionProjects/TD-pro/cmake-build-debug/CMakeFiles/edit_cache.dir
